@@ -1,0 +1,22 @@
+
+
+{
+  "baseUrl" : "https://demoqa.com/",
+    "username": "Amit8310",
+    "password": "Amit@2001",
+    "bookName": "Learning JavaScript Design Patterns",
+
+  "api": {
+    "createUser": {
+      "name": "Amit",
+      "job": "QA Intern"
+    },
+    "updateUser": {
+      "name": "Amit Updated",
+      "job": "Senior QA"
+    },
+    "getUserId": 2,
+    "updateUserId": 2
+  }
+}
+
